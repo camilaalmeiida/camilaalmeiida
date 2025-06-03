@@ -1,5 +1,3 @@
-# README.md
-
 # Olá, eu sou a Camila! 👋
 
 Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, estudos e experimentos nas áreas de Dados, DevOps e Tecnologia em geral.
